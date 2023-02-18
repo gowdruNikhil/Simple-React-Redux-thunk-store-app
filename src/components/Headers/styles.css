@@ -1,0 +1,8 @@
+/* All the style classes are written for the corresponding file */
+.headerStyle {
+    height: 45px;
+    background-color: coral;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
